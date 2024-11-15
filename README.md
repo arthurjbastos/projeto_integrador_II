@@ -5,7 +5,7 @@ Felipe de Souza Andrade Pereira, RA 2213677
 Guilherme José Nieri de Barros, RA 2215391
 Janaina Silvino de Paula, RA 2231664
 Marcelo Alves de Oliveira, RA 1709270
-Marcelo Henrique Moraes, RA 1817666
+Marcelo Henrique Moraes, RA 1817666, Orientadora: Giulia Bauab Levai.
 
 (Os arquivos estavam em outro repositório do Github, de outro membro do grupo, porém de forma privada, ou seja, apenas transferi os arquivos para um novo repositório público para a avaliação.)
 
