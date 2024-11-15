@@ -7,6 +7,8 @@ Janaina Silvino de Paula, RA 2231664
 Marcelo Alves de Oliveira, RA 1709270
 Marcelo Henrique Moraes, RA 1817666
 
+(Os arquivos estavam em outro repositório do Github, de outro membro do grupo, porém de forma privada, ou seja, apenas transferi os arquivos para um novo repositório público para a avaliação.)
+
 Os testes foram realizados utilizando XAMPP, com Apache e MySQL, (apachefriends.org/pt_br/index.html)
 Usando o "phpMyAdmin" incluso no XAMPP para banco de dados.
 
